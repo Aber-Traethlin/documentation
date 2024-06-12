@@ -10,15 +10,15 @@ There are other uses planned.
 
 You will find documentation for:
 
-- [hardware](#hardware)
+- [hardware](#traethlins-hardware)
 - [software](#traethlins-software)
 - usage
 
-## Hardware
+## Traethlin's hardware
 
 The robot is based on a RC rock crawler chassis, the [Traxxas trx-4](https://traxxas.com/products/landing/trx-4/).
 
-The main computer is a [Raspberry Pi 4 model b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) running Ubuntu (currently 22.04).  All the high-level processing happens on the RPi, in particular using the [Robotic Operating System](https://ros.org/) (ROS, currently *humble*).  More on this can be found [here](##traethlins-software).
+The main computer is a [Raspberry Pi 4 model b](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) running Ubuntu (currently 22.04).  All the high-level processing happens on the RPi, in particular using the [Robotic Operating System](https://ros.org/) (ROS, currently *humble*).  More on this can be found [here](#traethlins-software).
 
 To interface with some of the hardware, an ESP32 running micro-ROS is used.
 
