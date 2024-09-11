@@ -83,9 +83,9 @@ For the original Traxxas speed controller (ESC), press and hold the "EZ set" but
 - Flashing red: low voltage, the motor will go slower.
 - Solid red: too low voltage, the motor and servos will not run.
 
-For other ESCs, the procedure might be different.  On our robot, slide the power switch at the front of the computer box outwards.  This powers the motor controller.  Depending on the motor controller, there could be some beeping sounds and some LEDs.  Usually this should terminate with three beeps (indicating that a three cell battery is connected), but YMMV.
+For other ESCs, the procedure might be different.  On our robot, slide the switch labelled "Motor" at the front of the computer box outwards.  This powers the motor controller.  Depending on the motor controller, there could be some beeping sounds and some LEDs.
 
-At this point Traethlin can be driven.  Sliding the inner circle of the joystick in any direction will result in Traethlin moving in the direction (forward, backward, steering right or left), proportionally to how much the circle is moved.  There are also buttons to lock the front and rear differentials (only lock them on slippery terrain) and to change the gear of the gearbox.
+At this point Traethlin can be driven.  Sliding the inner circle of the joystick on the Web page in any direction will result in Traethlin moving in the direction (forward, backward, steering right or left), proportionally to how much the circle is moved.  There are also buttons to lock the front and rear differentials (only lock them on slippery terrain) and to change the gear of the gearbox.
 
 The ESC can be switched off at any time to stop Traethlin from moving.
 
